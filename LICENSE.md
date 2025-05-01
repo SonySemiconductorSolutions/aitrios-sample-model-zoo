@@ -1,0 +1,22 @@
+# Specific Terms
+
+REGARDING THE SAMPLES (THE SAMPLE MODELS) THAT USER ACCESSES VIA LINKS FROM THIS WEBSITE (THE "SAMPLES”), NEITHER SONY SEMICONDUCTOR SOLUTIONS CORPORATION (“SONY”) NOR ITS AFFILIATES OR THE LICENSORS OF THE SAMPLES ENDORSE OR GUARANTEE THEM IN ANY WAY, NOR IS SONY RESPONSIBLE FOR THEM IN ANY WAY, INCLUDING EXAMINING OR EVALUATING THOSE OFFERINGS. IT IS THE USER’S RESPONSIBILITY TO CAREFULLY REVIEW THE APPLICABLE PRIVACY STATEMENTS AND OTHER TERMS AND CONDITIONS OF USING THEM. SONY DOES NOT MAKE ANY WARRANTY, WHETHER EXPRESS OR IMPLIED, FOR THE ACCURACY, SECURITY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR ANY OTHER MATTERS RELATING TO THE SAMPLES OR THE CONTENT OF THE SAMPLES. NEITHER SONY NOR ITS AFFILIATES, OR LICENSORS OF THE SAMPLES WILL BE LIABLE FOR LOSSES OR ANY OTHER RESULTS DUE TO THE USE OF THE SAMPLES BY USER.
+
+Users shall not modify or utilize the SAMPLES for the purpose of any AI systems or practices that fall under the category of “prohibited AI practices” and/or ”high-risk AI systems”
+as classified under the EU Artificial Intelligence Act (REGULATION (EU) 2024/1689).
+
+Users shall not use the SAMPLES in connection with violation of laws, regulations, court decisions or other legally binding dispositions by a public authority or public policy, or infringement of the rights or legally protected interests (including, but not limited to, intellectual and other property rights, rights to trade secrets, honors, privacy and publicity) of Sony or any other third parties.
+
+Users shall not use the SAMPLES for the purpose of designing, developing, producing, modifying, using, or storing Arms and will not commit any act that will lead to a violation of laws and regulations regarding trade control and economic sanctions implemented by the United Nations, Japan, the United States, the European Union, the United Kingdom, Switzerland or any other country or region that has jurisdiction. “Arms” means products, software, technologies, or services designed for combat attack (i.e., killing or destruction) or that could be diverted and employed for combat attack, including parts, accessories and/or software specially designed for any such products, software, technologies or services. Arms include (a) any types of guns (including hunting guns and sport guns) and any telescopic sights for any such guns, (b) tanks, battleships, submarines and fighters (including attack helicopters), (c) explosives, (d) biological or chemical weapons, (e) missiles, (f) unmanned aerial vehicles equipped with offensive weapons (including dissemination feature of biological or chemical weapons), and (g) devices or programs specially designed for guidance or attitude control of the items described above.
+
+Users shall not use the SAMPLES to design, develop, manufacture, or modify products or services used by Government Entities for the purpose of Law Enforcement, either directly or indirectly through third parties. “Law Enforcement” means the enforcement of the laws in any jurisdiction such as the powers for intrusive search, seizure, arrest, detention, rehabilitation, and/or punishing of the subjects suspected of violating laws and regulations. This does not include limited use cases, such as finding missing children and seniors, verifying identities for the purpose of accessing buildings, checking passports at border control, or logging into electronic devices. “Government entities” include national and local police, military police, prosecutors, and intelligence agencies.
+
+Sony, with the aim of utilizing AI technology to enrich people's life styles and contribute to the development of society, Sony will pursue accountability and transparency while actively engaging in dialogue with stakeholders. Sony will continue to promote responsible AI in order to maintain the trust of products and services by stakeholders.
+
+Users of this ModelZoo should refer to and understand our thoughts and initiatives about AI. You can learn more here, including Sony Group AI Ethics Guidelines. https://www.sony.com/en/SonyInfo/sony_ai/responsible_ai.html
+
+# LICENSE
+
+AI models (*.fpk) are provided for functional test purpose. 
+Please use the models in accordance with the licenses of their respective sources.
+The information about the models is provided in the `README.md` file.
